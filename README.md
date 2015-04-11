@@ -1,7 +1,7 @@
 # HSC-DT-MDP
 
 ##Happy Friends##
-A proof-of-concept motion sensing interactive suite I developed for my HSC in 201.
+A proof-of-concept motion sensing interactive suite I developed for my HSC in 2013.
 Aimed to encourage youths' physical interaction with technology.
 
 For more information, please see dir ~/folio/MDP folio final v25.pdf
